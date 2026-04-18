@@ -1,0 +1,71 @@
+DIABETES
+Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
+Symptoms of diabetes include frequent urination, excessive thirst, unexplained weight loss, extreme fatigue, blurry vision, slow-healing cuts or bruises, and tingling or numbness in hands or feet.
+Type 1 diabetes is an autoimmune condition where the immune system attacks insulin-producing cells. It requires daily insulin injections.
+Type 2 diabetes is the most common form. The body either resists insulin or doesn't produce enough. It is managed through diet, exercise, and medication.
+Risk factors for diabetes include obesity, physical inactivity, family history, age over 45, high blood pressure, and high cholesterol.
+Complications of diabetes include heart disease, kidney damage (nephropathy), eye damage (retinopathy), nerve damage (neuropathy), and foot problems.
+Diagnosis is done through fasting blood glucose test, HbA1c test, or oral glucose tolerance test.
+
+HYPERTENSION (HIGH BLOOD PRESSURE)
+Hypertension is a condition where blood pressure in the arteries is persistently elevated, typically above 130/80 mmHg.
+Most people with hypertension have no symptoms, which is why it is called the silent killer.
+Risk factors include obesity, high salt diet, smoking, excessive alcohol, stress, family history, and age.
+Treatment includes lifestyle changes such as reducing salt intake, regular exercise, weight loss, limiting alcohol, and quitting smoking.
+Medications for hypertension include ACE inhibitors, calcium channel blockers, beta blockers, and diuretics.
+Uncontrolled hypertension can lead to heart attack, stroke, kidney failure, and vision loss.
+
+CHRONIC KIDNEY DISEASE (CKD)
+Chronic kidney disease is the gradual loss of kidney function over time.
+The kidneys filter waste and excess fluids from the blood. When damaged, waste builds up in the body.
+Main causes of CKD are diabetes and high blood pressure, which together account for most cases.
+Symptoms include fatigue, swollen ankles, shortness of breath, blood in urine, foamy urine, and difficulty sleeping.
+CKD is diagnosed through blood tests (creatinine, GFR) and urine tests (albumin).
+Stages of CKD range from Stage 1 (mild) to Stage 5 (kidney failure requiring dialysis or transplant).
+Treatment includes controlling blood sugar, managing blood pressure, low-protein diet, and avoiding NSAIDs.
+
+BRAIN STROKE
+A stroke occurs when blood supply to part of the brain is cut off or a blood vessel bursts.
+Types include ischemic stroke (blockage) which accounts for 87% of strokes, and hemorrhagic stroke (bleeding).
+Risk factors for brain stroke include high blood pressure, diabetes, smoking, obesity, heart disease, high cholesterol, and age above 55.
+Symptoms of stroke follow the FAST acronym: Face drooping, Arm weakness, Speech difficulty, Time to call emergency.
+Other symptoms include sudden severe headache, confusion, vision problems, and loss of balance.
+Treatment for ischemic stroke includes clot-busting drugs (tPA) given within 4.5 hours of onset.
+Prevention includes controlling blood pressure, quitting smoking, regular exercise, healthy diet, and managing diabetes.
+
+LIVER DISEASE
+The liver performs over 500 functions including detoxification, protein synthesis, and digestion support.
+Common liver diseases include fatty liver disease, hepatitis, cirrhosis, and liver cancer.
+Fatty liver disease is the accumulation of fat in liver cells, often linked to obesity, diabetes, and alcohol use.
+Hepatitis is inflammation of the liver caused by viral infection (Hepatitis A, B, C), alcohol, or medications.
+Cirrhosis is scarring of liver tissue caused by long-term liver damage, often from alcohol or hepatitis.
+Symptoms of liver disease include jaundice (yellowing of skin and eyes), abdominal pain, swelling, fatigue, nausea, and dark urine.
+Diagnosis is done through liver function tests (LFTs), ultrasound, CT scan, and liver biopsy.
+Treatment depends on the cause — antiviral medications for hepatitis, lifestyle changes for fatty liver, and liver transplant for end-stage disease.
+
+LUNG CANCER
+Lung cancer is one of the most common and serious cancers worldwide.
+Main types are non-small cell lung cancer (NSCLC) which accounts for 85% of cases, and small cell lung cancer (SCLC).
+Risk factors include smoking (responsible for 85% of cases), secondhand smoke, radon gas exposure, asbestos, air pollution, and family history.
+Symptoms include persistent cough, coughing up blood, chest pain, shortness of breath, hoarseness, weight loss, and fatigue.
+Diagnosis involves chest X-ray, CT scan, PET scan, bronchoscopy, and biopsy.
+Treatment options include surgery, radiation therapy, chemotherapy, targeted therapy, and immunotherapy depending on the stage.
+Early detection significantly improves survival rates. Low-dose CT screening is recommended for high-risk individuals.
+
+HEART DISEASE
+Heart disease refers to several types of heart conditions including coronary artery disease, heart failure, and arrhythmias.
+Coronary artery disease is caused by plaque buildup in arteries, reducing blood flow to the heart.
+Symptoms include chest pain (angina), shortness of breath, fatigue, and swelling in legs.
+Risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, and family history.
+Heart attack occurs when blood flow to part of the heart is blocked. Symptoms include chest pain, arm pain, sweating, and nausea.
+Treatment includes medications (statins, aspirin, beta blockers), lifestyle changes, angioplasty, and bypass surgery.
+Prevention includes regular exercise, healthy diet low in saturated fats, not smoking, and controlling blood pressure and cholesterol.
+
+MENTAL HEALTH
+Mental health includes emotional, psychological, and social well-being affecting how we think, feel, and act.
+Common mental health disorders include depression, anxiety, bipolar disorder, schizophrenia, and PTSD.
+Depression symptoms include persistent sadness, loss of interest, sleep problems, fatigue, and difficulty concentrating.
+Anxiety disorders involve excessive fear or worry that interferes with daily activities.
+Treatment for mental health conditions includes psychotherapy, medications (antidepressants, anti-anxiety drugs), and lifestyle changes.
+Risk factors include genetic predisposition, trauma, chronic illness, substance abuse, and social isolation.
+Early intervention and seeking professional help are key to managing mental health conditions effectively.
